@@ -1,0 +1,10 @@
+.displaycard{
+    height: fit-content;
+    padding:20px 20px 0px 20px;
+}
+
+.contentheader{
+    display: flex;
+    justify-content: space-between;
+    align-content: center;
+}
